@@ -9,13 +9,13 @@ Test Data: [1, 2, [3,4], [5,6]]
 Expected Result: 21
 Click me to see the sample solution
 
-4. Write a Python program to get the factorial of a non-negative integer. Go to the editor
+SOLVED - 4. Write a Python program to get the factorial of a non-negative integer. Go to the editor
 Click me to see the sample solution
 
 5. Write a Python program to solve the Fibonacci sequence using recursion. Go to the editor
 Click me to see the sample solution
 
-6. Write a Python program to get the sum of a non-negative integer. Go to the editor
+SOLVED - 6. Write a Python program to get the sum of a non-negative integer. Go to the editor
 Test Data:
 sumDigits(345) -> 12
 sumDigits(45) -> 9
