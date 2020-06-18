@@ -5,4 +5,4 @@
 
 - Next Topic:
   - Dynamic Programming (DP)
-  - Binary Search Tree
+  - Binary Search Trees
