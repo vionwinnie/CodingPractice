@@ -4,5 +4,8 @@
   - Recursion
 
 - Next Topic:
+  - Linked List
   - Dynamic Programming (DP)
   - Binary Search Trees
+  - Arrays/Lists/Strings
+  - Stacks/Queues
