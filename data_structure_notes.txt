@@ -1,0 +1,54 @@
+Array:
+	- data record with FIXED/static size ( = contiguous/space-efficient)
+	- EACH element is accessed by its index/address (= fast-retrieval,constant,time access)
+	- memory locality
+
+	DOWNSIDE:
+	- cannot adjust size of the array (dynamic array exists but not memory efficient)
+
+
+Linked List:
+	- Dynamic
+	- Pointer - connection that hold pieces of linked structure together
+		  - Single-linked: successor (next)
+		  - Double-linked: predecessor,successor
+	- Insertion: 
+		- Can insert anywhere (beginning to minimize no. of operations)
+	- Deletion:
+		- Need to find predecessor -> change its "next" value
+	- Comparison with static arrays:
+		- Adv: faster insertion and deletion (changing pointers without modifying the element itself)
+		- Disadv: - do not allow efficient random access
+			  - need extra space to store pointers
+			  - array has better memory locality and cache performance
+		- Insights: lists and arrays are both recursive objects, can be tackled using quicksort and binary search
+
+Container:
+- Data structure that permits storage and retrieval of data items independent of content
+- Stack 
+	- LIFO
+		- push: insert at top
+		- pop: return top item
+- Queue 
+	- FIFO:
+		- enqueue: enter into the queue at the back
+		- dequeue: return the front item 
+
+Dictionary:
+	- DS that store and retrieval data using Key value pairs
+	- Operations:
+		- search
+		- insert
+		- delete
+
+	- Can be ordered (OrderedDict)
+		- max/min (of key) -> becomes priority queue?
+		- predecessor/successor (by key)
+	- Compare sorted and unsorted array 
+		- Search: O(log n)  / O(n)
+		- insert: O(n)  / O(1)
+		- delete: O(n) / O(1)?
+			- Sorted: shift all the object indices, hence O(n)
+			- Unsorted: Switch indice with last item, delete the last ite, hence O(1)
+		- sucessor/predecessor O(1) / O(n)
+		- minimum/maximum O(1) / O(n)

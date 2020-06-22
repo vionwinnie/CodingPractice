@@ -1,0 +1,14 @@
+Source: The Algorithm Design Manual (From Steven Skiena) - Chapter 3
+
+
+Stacks, Queues, and Lists
+- SOLVED: Check nested parentheses
+- Implement linear time reversal of direction of a single-linked list
+	- A -> B -> C
+	- C -> B -> A
+
+Tree:
+- Concantenate two binary search trees into one / running time = O(h) h = max(height)
+
+
+
