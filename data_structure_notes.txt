@@ -52,3 +52,7 @@ Dictionary:
 			- Unsorted: Switch indice with last item, delete the last ite, hence O(1)
 		- sucessor/predecessor O(1) / O(n)
 		- minimum/maximum O(1) / O(n)
+
+
+TO-LEARN:
+	- HASHMAP

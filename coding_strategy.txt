@@ -1,0 +1,15 @@
+## Listing solving coding strategy by each data structure
+
+Linked List:
+- Usually iterative would suffice
+- Common strategy is
+	- Fast and slow pointers
+	- Keep prev/curr/next pointers
+- If double-linked list is tested in interviews, it will be explicitly stated
+
+- Fast and slow pointers:
+	- If fast is K nodes > slow:
+		- Move at same speed
+	- Fast moving at twice the speed
+		- Detecting loop
+
