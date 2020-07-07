@@ -12,3 +12,5 @@ Stack is LIFO!!!
     pop() – Deletes the top most element of the stack 
 		– Time Complexity : O(1)
 
+
+Queue is FIFO!  - Only has dequeue and enqueue !

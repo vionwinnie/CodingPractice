@@ -13,3 +13,25 @@ Linked List:
 	- Fast moving at twice the speed
 		- Detecting loop
 
+
+Stack/ Queues:
+- Two types of questions:
+	1. Implement stack/queues using LL or Array or stack with queue (vice versa)
+	2. Practical problem solving
+		- Graph/tree
+		- Check/remove/fix parentheses
+		- DP
+		- Recursive descent
+		- Filter / process data stream
+
+
+- Graph/Tree walks:
+	- Depth-first traversal uses stack (Recursion -> STACK!!)
+	- Breadth-first traversal uses queue
+
+- Parenthess/Expression Parsing:
+	- Always uses a stack
+	- Sometimes do not need to store the stack..can use integer for O(1) memory space instead
+
+- Dynamic Programming:
+	- Using stack to store prev info and distance for indexing purpose
