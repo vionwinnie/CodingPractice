@@ -1,0 +1,35 @@
+Binary Tree
+
+Operations: [h = length of tree]
+- Search = O(h) 
+- Insertion = O(h) [search, insert]
+- Delete = O(h)
+
+Insertion / Deletion 
+- Structure cannot guarntee the h for sure -> there are complicated algorithm to maintain balance of the tree 
+
+Find Min and Max
+- left most node = Min
+- right most node = Max
+
+Traversal:
+
+In-order Traversal:
+a.traverse_left
+b.process_item
+c.traverse_right
+
+Pre-order Traversal:
+a. process_item
+b. traverse_left
+c. traverse_right
+
+Post-order Traversal:
+a. traverse_left
+b. traverse_right
+c. process_item
+
+Usage:
+- In order: non decreasing order
+- Pre order: create copy, get prefix
+- Post order:delete tree,  get postfix expression
