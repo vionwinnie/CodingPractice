@@ -1,0 +1,11 @@
+Leetcode that I have solved:
+
+- Easy:
+	- https://leetcode.com/problems/same-tree/
+	- https://leetcode.com/problems/symmetric-tree/
+	- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+	- https://leetcode.com/problems/invert-binary-tree/
+
+- Medium:
+	- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+	- https://leetcode.com/problems/binary-tree-longest-consecutive-sequence

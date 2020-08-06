@@ -2,14 +2,18 @@
 
 - Comlpeted Topics:
   - Recursion
-  
-- Current Topic:
   - Linked List
   - Stacks and Queues
-  - Data Structure ( Binary Search Tree, Hash Tables)
+  
+- Current Topic:
+  - Binary Tree
+  - Binary Search
+  - Hash Table
 
 - Next Topic:
-  - Dynamic Programming (DP)
+  - Dynamic Programming (DP) + String/Arrays
+  - Greedy Algorithm
+  - Bit Manipulation
 
 - Resources:
   - https://github.com/WWCode-SV/Whiteboarding_Series
